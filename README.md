@@ -29,3 +29,5 @@ Testing: Add unit tests for the oracle, simulating AI responses (use mock librar
 Documentation: Update docs/ with examples: "How to use AI in your smart contract".
 Deployment: Test in a testnet, add to the roadmap in README.
 Potential challenges: Ensure data privacy — use zero-knowledge for AI computations to avoid leaks.
+
+
